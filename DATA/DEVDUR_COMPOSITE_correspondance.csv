@@ -1,0 +1,193 @@
+COD_MOD,LIB_MOD
+_Z,Non applicable
+CONTAMIN_MOD1,Rapports sexuels entre hommes
+CONTAMIN_MOD2,Hétérosexuels
+CONTAMIN_MOD3,Injection intraveineuse
+CONTAMIN_MOD4,Autres 
+ALCOOL_CONS1,Au moins une fois dans l’année
+SESC1,Statut socio-économique très défavorisé
+ALCOOL_CONS2,Tous les jours de l’année
+SESC2,Statut socio-économique défavorisé
+ALCOOL_CONS3,Au moins une alcoolisation ponctuelle importante (API) au cours des 12 derniers mois
+SESC3,Statut socio-économique favorisé
+ALCOOL_CONS4,Au moins une ivresse au cours des 12 derniers mois
+SESC4,Statut socio-économique très favorisé
+NUM_COMP1,Faibles compétences numériques générales
+NUM_COMP2,Compétences numériques générales de base
+NUM_COMP3,Compétences numériques générales plus avancées
+NUM_COMP4,Personnes n’ayant pas utilisé Internet au cours des 3 derniers mois ou sans aucune compétence
+OBJ_SOCECO5,Exploration et exploitation de l’espace
+ROUTE_TYP1,Autoroutes
+ROUTE_TYP2,Routes hors agglomération
+OBJ_SOCECO6,Environnement
+ROUTE_TYP3,Routes en agglomération
+OBJ_SOCECO3,Énergie
+NIVIEMED_S20,Seuil à 20 % du niveau de vie médian
+OBJ_SOCECO8,Agriculture
+OBJ_SOCECO7,Exploration et exploitation du milieu terrestre
+OBJ_SOCECO4,"Transports, télécommunications et autres infrastructures"
+OBJ_SOCECO2,Production et technologies industrielles
+OBJ_SOCECO1,Santé
+ECO_SECT2,Transport
+ECO_SECT4-5,Résidentiel-Tertiaire
+ECO_SECT13,Industrie manufacturière et construction 
+ECO_SECT12,Industrie de l'énergie
+ECO_SECT3,Agriculture
+ECO_SECT6,Traitement centralisé des déchets
+VIOLENCE_TYP1,Violences physiques
+VIOLENCE_TYP2,Violences sexuelles
+DIPL_NIV1,Aucun diplôme ou inférieur au Baccalauréat
+VIOLENCE_TYP3,Violences commises par le conjoint ou ex-conjoint
+VIOLENCE_TYP4,Violences commises dans le cercle familial hors conjoint ou ex-conjoint
+3_X_353,Baccalauréat
+VIOLENCE_TYP5,Violences commises hors de la sphère intrafamiliale
+4T8,Diplôme supérieur au baccalauréat
+INSTIT1,Armée
+INSTIT2,Police
+INSTIT3,Justice
+INSTIT4,École
+INSTIT5,Hôpital
+51.21,Transports aériens de fret
+85.51,Enseignement de disciplines sportives et d'activités de loisirs
+93.12,Activités de clubs de sports
+93.19,Autres activités liées au sport
+43.91A,Travaux de charpente
+43.91B,Travaux de couverture par éléments
+49.42,Services de déménagement
+02.40,Services de soutien à l'exploitation forestière
+88.10C,Aide par le travail
+81.30,Services d'aménagement paysager
+NIVIEMED_S60,Seuil à 60 % du niveau de vie médian
+EMP_AIDE1,Apprentissage
+EMP_AIDE2,Formations en alternance (hors apprentissage)
+EMP_AIDE3,Contrats aidés du secteur marchand
+EMP_AIDE4,Contrats aidés du secteur non marchand
+APD_ZONEGEO1,Afrique
+APD_ZONEGEO2,Afrique subsaharienne
+NIVIEMED_S50,Seuil à 50 % du niveau de vie médian
+APD_ZONEGEO3,Asie
+APD_CAD100,Infrastructure et Services sociaux 
+APD_CAD110,Éducation  
+APD_CAD122,Santé de base
+APD_CAD140,Distribution d'eau et Assainissement
+APD_CAD230,Énergie
+APD_CAD311,Agriculture
+APD_CAD410,Protection de l'environnement
+APD_MARQUEUR1,Marqueur genre (égalité homme-femme et des droits des femmes)
+APD_MARQUEUR2,Marqueur biodiversité
+APD_MARQUEUR3,Marqueur mitigation changement climatique
+APD_MARQUEUR4,Marqueur adaptation changement climatique
+REV_Q1,1er quartile de revenu par unité de consommation
+REV_Q2,2e quartile de revenu par unité de consommation
+REV_Q3,3e quartile de revenu par unité de consommation
+REV_Q4,4e quartile de revenu par unité de consommation
+ALCOOL_CONS5,Au moins dix ivresses au cours des 12 derniers mois
+APD_CAD120-130,Santé
+APD_CAD152_700,Crises et fragilités 
+APD_CAD310-520,Agriculture et sécurité alimentaire
+APD_CAD151,Gouvernance
+NIVIEMED_S40,Seuil à 40 % du niveau de vie médian
+SC_DISC1,DUT Production (y compris informatique)
+EMP_AIDE5,Insertion par l‘activité économique
+EMP_AIDE6,Autres emplois aidés
+SC_DISC2,Formations scientifiques (ingénieurs compris)
+SC_DISC3,Santé
+FPE,Fonction publique d’État
+FPH,Fonction publique hospitalière
+FPT,Fonction publique territoriale
+EMIGES_TYP1,Émissions directes des ménages
+EMIGES_TYP2,Émissions de la production intérieure 
+EAU_UTIL3,Alimentation des canaux
+EMIGES_TYP3,Émissions associées aux importations
+EMIGES_TYP4,Émissions associées aux importations pour usage final
+EMIGES_TYP5,Émissions associées aux importations pour consommations intermédiaires
+GES_TYP1,CO2
+GES_TYP2,CH4
+GES_TYP3,N2O
+MAT_TYP2,Plastique
+MAT_TYP1,Caoutchouc
+TRANSP_MOY1,"En bus, cars et tramways"
+TRANSP_MOY2,En transport ferré (y compris métro)
+TRANSP_MOY4,Transport ferroviaire
+TRANSP_MOY3,Transport routier
+TRANSP_MOY5,Navigation fluviale
+P_ART,Proportion de sols artificialisés
+SATISF_NIV1,Niveau de satisfaction faible (0-5)
+URBA1,Dans les agglomérations de plus de 250 000 habitants
+SATISF_NIV2,Niveau de satisfaction moyen (6-8)
+SATISF_NIV3,Niveau de satisfaction élevé (9-10)
+URBA2,Dans les agglomérations de 50 000 à 250 000 habitants
+URBA3,À proximité du trafic routier en milieu urbain
+URBA4,En fond urbain
+S_ART,Surface des sols artificialisés
+ETAT1,Très bon 
+ETAT2,Bon
+ETAT3,Moyen
+ETAT4,Médiocre
+ETAT5,Mauvais
+ETAT6,Inconnu
+TRAIT2,Compostage-méthanisation
+ETAT12,En amélioration
+ETAT13,Stable
+TRAIT3,Recyclage matière
+ETAT14,En dégradation
+TRAIT5,Incinération avec récupération d’énergie
+ETAT9,Optimal
+ETAT10,Dégradé
+ETAT11,Très dégradé
+TRAIT1,Incinération sans récupération d’énergie
+ECOCIRC_PILIER2,Approvisionnement durable
+TRAIT4,Stockage
+MER_FACADE1,Manche-Mer du Nord
+MER_FACADE4,Mer Celtique
+MER_FACADE5,Golfe de Gascogne
+MER_FACADE3,Mer Méditerranée
+ECO_SECT1,"Industrie (y compris construction, mais hors hauts-fourneaux)"
+EAU_UTIL4,Eau potable
+EAU_UTIL1,Usage industriel
+ALIM_ETAP1,Production
+ALIM_ETAP2,Transformation
+ECO_SECT22,Transport–Véhicules lourds
+EAU_UTIL2,Usage agricole dont irrigation
+ECO_SECT4,Résidentiel
+ALIM_ETAP3,Distribution
+EAU_UTIL5,Refroidissement des centrales électriques
+ALIM_ETAP4,Consommation à domicile
+ECO_SECT21,Transport–Véhicules légers
+ALIM_ETAP5,Consommation en restauration collective et commerciale
+PHYTO1,"Fongicides, bactéricides et virucides"
+ANIM1,Bovins
+PHYTO2,Herbicides et anti-mousses
+ECO_SECT5,Tertiaire
+ANIM2,Poissons
+PHYTO3,"Insecticides, acaricides, nématicides et médiateurs chimiques"
+ANIM3,Lapins
+MAT_TYP3,Verre
+PHYTO4,Autres substances
+ANIM4,Ovins & Caprins
+ANIM5,Porcs
+MAT_TYP5,Papiers et cartons
+ANIM6,Volailles
+MAT_TYP6,Bois
+MAT_TYP4,Végétaux
+MAT_TYP7,Métalliques
+EXCT_R1,A risque d’extinction
+EXCT_R2,Non à risque d'extinction
+EXCT_R3,Risque d'extinction inconnu
+ECOCIRC_PILIER3,Consommation responsable
+ECOCIRC_PILIER1,Allongement de la durée d'usage
+ECOCIRC_PILIER4,Recyclage et valorisation des déchets
+ETAT15,Favorable
+ETAT16,Défavorable inadéquat
+ETAT17,Défavorable mauvais
+ETAT18,Défavorable inconnu
+HABIT_TYP1,Milieux agricoles
+HABIT_TYP2,Milieux forestiers
+HABIT_TYP3,Milieux bâtis
+ETAT7,Très bon et bon
+ETAT8,Médiocre et mauvais
+MER_FACADE2,Atlantique
+DOCSTRA_NIV2,Document stratégique adopté 
+DOCSTRA_NIV1,Document stratégique en cours
+DOCSTRA_NIV0,Aucun document stratégique
+_T,Total
