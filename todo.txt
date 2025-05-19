@@ -1,0 +1,9 @@
+<h2>GESTION DE PROJET</h2>
+
+TODO: 
+Histogrammes ou piechart sur les actions menées par indicateur ODD par an + bilan.
+Carte de répartition des actions menées par an + bilan.
+
+IDEES: 
+Règles d'affichage: établir un minimum d'objets à avoir par périmètre pour afficher les résultats (histoire de relevance: est ce que trois actions sur une année nécessitent d'être projetées?). 
+Ajout des totaux: nb actions (lignes) par périmètre.
