@@ -1,0 +1,176 @@
+COD_MOD,LIB_MOD
+3.i2,Nombre de découvertes de séropositivité VIH
+5.i4a,Nombre de victimes de violences sexuelles hors violences intrafamiliales
+5.i3b,Part des femmes parmi les victimes de violences intrafamiliales physiques et/ou sexuelles
+5.i4b,Part des femmes parmi les victimes de violences sexuelles hors violences intrafamiliales
+4.i2,Taux de participation à une formation formelle et non formelle
+4.i1a,Proportion d’enfants en CM1 qui maîtrisent au moins les normes d’aptitude minimale en lecture
+4.i1b,Proportion d’enfants en CM1 qui maîtrisent au moins les normes d’aptitude minimale en mathématiques
+4.i1c,Proportion de jeunes de 15 ans qui maîtrisent au moins les normes d'aptitudes minimales en lecture
+3.i3,Taux standardisé de décès pour cause de suicide
+3.i5,Proportion de la population répartie selon différents modes de consommation d’alcool
+3.i6,Personnes tuées par accident de la route
+4.i1d,Proportion de jeunes de 15 ans qui maîtrisent au moins les normes d'aptitudes minimales en mathématiques
+4.i3,Proportion de la population répartie selon le niveau de compétences numériques 
+9.i6c,Montant des crédits budgétaires publics de R&D par objectif socio-économique 
+9.i6b,Montant des crédits budgétaires publics de R&D civils (hors Défense)
+9.i4,Personnel de recherche
+3.i7a,Renoncement aux soins pour raisons financières - besoins non satisfaits d’examen ou de traitement médical
+9.i6a,Montant des crédits budgétaires publics de R&D
+3.i7b,Renoncement aux soins pour raisons financières - besoins non satisfaits de traitement dentaire
+3.i8,Prévalence du tabagisme quotidien
+9.i2,Taux d'acceptation des demandes de crédit des très petites entreprises (TPE)
+13.i4c,Émissions de gaz à effet de serre (hors UTCATF) par habitant - Ensemble des gaz à effet de serre 
+13.i4b,Émissions de gaz à effet de serre (hors UTCATF) par secteur de l’économie - Ensemble des gaz à effet de serre 
+16.i1,Nombre d’homicides
+16.i2,Proportion de personnes se déclarant victimes de violences physiques et/ou sexuelles
+16.i3,Proportion des personnes prévenues parmi les détenus
+16.i4,Proportion de personnes déclarant avoir confiance dans certaines institutions
+2.i1,Renoncement à consommer des protéines pour raisons financières
+8.i5,Nombre d’accidents du travail par million d’heures travaillées
+2.i2a,Prévalence du surpoids chez les adultes
+2.i2b,Prévalence de l'obésité chez les adultes
+2.i2e,Prévalence du surpoids chez les enfants en grande section de maternelle selon la PCS des parents
+2.i2c,Prévalence du surpoids chez les adolescents en troisième selon la PCS des parents
+2.i2f,Prévalence de l'obésité chez les enfants en grande section de maternelle selon la PCS des parents
+2.i2d,Prévalence de l'obésité chez les adolescents en troisième selon la PCS des parents
+8.i6,Intensité du travail
+1.i1a,Taux de pauvreté monétaire - Seuil à 60% du niveau de vie médian
+8.i8,Part des emplois aidés dans l'emploi des jeunes de moins de 26 ans
+8.i1,Taux de croissance annuelle du PIB réel par habitant
+8.i3,Taux de sous emploi
+8.i4,"Proportion de jeunes ne travaillant pas et ne suivant ni études, ni formation"
+8.i7,Proportion d'adultes possédant un compte dans une banque ou dans une autre institution financière ou faisant appel à des services monétaires mobiles
+7.i1,Proportion de la population en incapacité de maintenir une température adéquate dans le logement
+11.i1,Taux de surpeuplement des logements
+17.i1a,Montant de l’aide publique au développement (APD) totale nette/Équivalent-don
+17.i1b,Part de l'APD totale nette/Équivalent-don en proportion du revenu national brut
+17.i1c,Distribution de l’APD totale nette/Équivalent-don aux pays les moins avancés
+17.i1d,Montant de l’aide bilatérale dans la distribution de l’APD totale nette/Équivalent-don aux pays les moins avancés
+17.i1e,Distribution de l’APD totale nette/Équivalent-don par zone géographique
+1.i1b,Taux de pauvreté monétaire - Seuil à 50% du niveau de vie médian
+17.i2a,Montant de l’aide publique au développement (APD) bilatérale brute
+17.i2b,Montant de l’aide publique au développement (APD) bilatérale brute par secteur
+17.i2c,Engagements d'APD bilatérale par marqueur
+17.i5,Solidité financière (Regulatory Tier 1 capital to risk-weighted assets)
+13.i4a,Émissions de gaz à effet de serre (UTCATF inclus) - Ensemble des gaz à effet de serre 
+1.i3,Intensité de la pauvreté monétaire
+1.i4,Taux d'effort net en logement
+1.i5,Nombre de situations de surendettement soumises aux commissions
+10.i2d,Rapport interdécile D9/D1
+10.i3a,Patrimoine brut hors reste (Indice de Gini)
+10.i3b,Patrimoine brut (indice de Gini)
+10.i4,Part des individus disposant du haut débit à leur domicile
+10.i5,Part des individus s'étant connectés à Internet au cours des trois derniers mois
+4.i5,Nombre d'écoles et d’établissements scolaires engagés dans une démarche globale de développement durable (label E3D)
+10.i1,Part du niveau de vie perçu par les 40 % les plus modestes de la population
+5.i2,Part des femmes dans les disciplines scientifiques à l'université
+5.i5b,Part des femmes parmi les cadres dirigeants dans la fonction publique
+5.i1,Écart de rémunération entre hommes et femmes (Gender Pay Gap) 
+5.i5a,Part des femmes parmi les cadres dirigeants dans le privé
+5.i3a,Nombre de victimes de violences intrafamiliales physiques et/ou sexuelles
+3.i1a,Espérance de vie en bonne santé
+3.i1b,Espérance de vie à la naissance
+10.i2a,Rapport interquintile des masses de niveau de vie (100-S80)/S20 après redistribution
+2.i5,Exposition des animaux aux antibiotiques (indicateur ALEA)
+13.i3c,"Empreinte carbone selon le type d’émissions pour les 3 principaux gaz à effet de serre (CO2, CH4 et N2O)"
+4.i4,Taux de sorties précoces du système scolaire
+6.i1b,Taux de non conformité des prélèvements sur les eaux distribuées pour la physico-chimie
+6.i5,Prélèvements en eau selon les usages
+6.i1a,Taux de non conformité des prélèvements sur les eaux distribuées pour la micro-biologie 
+3.i4a,Satisfaction dans la vie (note moyenne comprise entre 0 à 10)
+13.i4d,"Émissions de gaz à effet de serre (hors UTCATF) par habitant pour les 3 principaux gaz à effet de serre (CO2, CH4 et N2O)"
+8.i2,Taux d'emploi
+13.i4e,"Émissions de gaz à effet de serre (hors UTCATF) pour les 3 principaux gaz à effet de serre (CO2, CH4 et N2O)"
+12.i4b,Traitement de déchets dangereux
+12.i5a,Production de déchets dangereux et non dangereux
+12.i5c,Traitement de déchets dangereux et non dangereux par type de matières
+12.i6a,Nombre d’emplois de l’économie circulaire
+11.i3b,Déchets municipaux traités par habitant
+11.i3c,Taux de recyclage des déchets municipaux
+13.i4f,"Émissions de gaz à effet de serre (hors UTCATF) des exportation de la production intérieure pour les 3 principaux gaz à effet de serre (CO2, CH4 et N2O)"
+9.i1a,Part modale des transports collectifs de voyageurs (hors aérien) dans le transport intérieur terrestre de voyageurs
+9.i1b,Part modale des transports de marchandises dans le transport intérieur terrestre de marchandises
+7.i2b,Part des énergies renouvelables dans la consommation finale brute d’énergie
+11.i2a,Sols artificialisés
+3.i4b,Distribution de la satisfaction dans la vie
+11.i4a,Part des stations de mesure dépassant le seuil réglementaire journalier de la qualité de l'air pour les particules PM10
+11.i4b,Concentrations moyennes annuelles de PM10
+12.i7,Nombre de projets d'écologie industrielle et territoriale
+9.i5a,Part des dépenses intérieures de R&D dans le PIB (effort de recherche)
+6.i2a,Proportion des masses d’eau de surface selon l’état écologique
+11.i3a,Déchets municipaux traités par type de traitement
+14.i5c,Évolution de l’état des récifs coralliens par aire de répartition - Pacifique
+6.i2b,Proportion des masses d’eau de surface selon l’état chimique
+14.i5d,"Évolution de l’état des récifs coralliens par aire de répartition - Antilles, Mayotte, La Réunion"
+14.i5a,État des récifs coralliens par aire de répartition - Pacifique et îles Éparses
+6.i2c,Proportion des masses d’eau souterraine selon l’état chimique
+14.i5b,"État des récifs coralliens par aire de répartition - Antilles, Mayotte, La Réunion"
+12.i6b,Répartition de l’emploi par pilier de l’emploi circulaire
+14.i2a,Déchets marins en France métropolitaine - Macro-déchets sur le littoral (abondance médiane)
+7.i2a,Consommation finale d’énergie par secteur
+6.i2d,Proportion des masses d’eau souterraine selon l’état quantitatif
+14.i2b,Déchets marins en France métropolitaine - Macro-déchets flottants (densité moyenne)
+12.i1a,Consommation intérieure de matières
+12.i1b,Consommation intérieure de matières par habitant
+6.i3a,Taux de conformité de la performance des ouvrages d'assainissement collectif
+12.i1c,Productivité matières
+7.i3a,Consommation d'énergie primaire
+6.i3b,Taux de conformité des dispositifs d'assainissement non collectif
+7.i3b,Consommation d’énergie primaire - énergie nucléaire
+7.i3c,Part des énergies fossiles dans la consommation d'énergie primaire
+12.i2a,Empreinte matières
+12.i2b,Empreinte matières par habitant
+7.i4a,Intensité énergétique finale
+6.i4,Taux de rendement des réseaux d'eau potable
+14.i2c,Déchets marins en France métropolitaine - Macro-déchets sur les fonds marins (densité moyenne)
+7.i4b,Intensité énergétique finale par secteur (indice base 100 en 2000)
+12.i2c,Empreinte matières par unité de PIB
+14.i2d,Déchets marins en France métropolitaine - Micro-déchets flottant en mer (densité moyenne)
+2.i3,Diversité moyenne des cultures arables
+12.i3,Pertes et gaspillages alimentaires par habitant
+2.i4a,Part d'agriculture biologique dans la surface agricole utilisée (SAU)
+2.i4b,Nombre d'exploitations de haute valeur environnementale (HVE)
+2.i6b,"Quantités de substances actives (QSA) vendues dites « conventionnelles », utilisables ni en produits biocontrôle, ni en agriculture biologique"
+6.i6,Proportion de services publics locaux d’eau potable ayant des commissions consultatives
+12.i4a,Production de déchets dangereux
+13.i1a,Nombre d’évènements naturels très graves
+13.i1b,Nombre d’évènements naturels très graves: Inondations
+2.i6c,"Quantités de substances actives (QSA) vendues, utilisables en produits biocontrôle et agriculture biologique"
+13.i2,Nombre de communes faisant l'objet d'un plan de prévention des risques naturels approuvé
+15.i5a,Surfaces terrestres françaises classées en aires terrestres protégées (protection forte)
+15.i5b,Part des terres françaises en aires terrestres protégées (protection forte)
+13.i3a,"Empreinte carbone pour les 3 principaux gaz à effet de serre (CO2, CH4 et N2O)"
+15.i5c,Surfaces terrestres françaises classées en aires terrestres protégées (objectif 30 % SNAP)
+2.i6a,Nombre de doses unités (Nodu) de produits phytosanitaires 
+15.i5d,Part des terres françaises en aires terrestres protégées (objectif 30 % SNAP)
+9.i3,Émissions de gaz à effet de serre par unité de valeur ajoutée (t CO2 eq./million $ 2017 PPA)
+2.i7,Nombre de races locales classées selon le risque d’extinction
+13.i3b,"Empreinte carbone par habitant pour les 3 principaux gaz à effet de serre (CO2, CH4 et N2O)"
+12.i5b,Traitement de déchets dangereux et non dangereux
+9.i5b,Part des dépenses intérieures de R&D des entreprises dans le PIB
+15.i1,Taux de boisement (moyenne sur 5 ans)
+10.i2c,Rapport interquintile des masses de niveau de vie (100-S80)/S20 après redistribution - Données non retropolées
+15.i2,État de conservation des habitats naturels  (moyenne sur 6 ans)
+15.i3a,Écosystèmes peu anthropisés en France métropolitaine
+15.i3b,Écosystèmes peu anthropisés dans les départements et régions d’Outre-mer
+10.i2b,Rapport interquintile des masses de niveau de vie (100-S80)/S20 avant redistribution
+15.i7a,Nombre d’espèces exotiques envahissantes  en France métropolitaine (en moyenne sur 10 ans)
+15.i6a,Population d'oiseaux communs spécialistes (indice base 100 en 1989)
+13.i5,Montant des indemnisations versées au titre des catastrophes naturelles 
+15.i6b,Population d'oiseaux communs généralistes (indice base 100 en 1989)
+11.i2b,Terres agricoles
+15.i7b,Nombre d’espèces parmi les plus envahissantes au monde
+14.i1a,Proportion des masses d’eau de transition selon l’état écologique
+14.i1b,Proportion des masses d’eau côtières selon l’état écologique
+11.i2c,"Zones boisées, naturelles, humides ou en eau"
+14.i3a,Flux à la mer d'azote lié aux nitrates par façade
+14.i3b,Flux à la mer de phosphore par façade
+1.i2,Taux de privation matérielle et sociale
+14.i4,Nombre de rapports POLREP (Pollution Report) confirmés par les autorités
+14.i6a,Nombre de façades disposant d'une approche écosystémique en France métropolitaine
+14.i6b,Nombre de façades disposant d'une approche écosystémique en Outre-mer
+14.i7,Part des eaux marines françaises en aires marines protégées
+17.i3,Dette publique au sens de Maastricht (en % du PIB)
+17.i4a,Endettement des ménages (en % du PIB)
+17.i4b,Endettement des sociétés non financières (en % du PIB)
