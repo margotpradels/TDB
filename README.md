@@ -35,7 +35,7 @@ Chaque ODD ayant sa propre manière d'être mesuré, il est important de compren
 Chaque ODD sera donc analysé individuellement sur les observations recueillies. 
 Les comparaisons sur l'ensemble des ODD se feront sur le nombre d'action concernées et la répartition par rapport à d'autres attributs (statut, cible, personnes). 
 
-# OUTIL (liste incomplète)
+# OUTILS (liste incomplète)
 Onyxia
 Git
 Jupyter
@@ -57,9 +57,18 @@ Page filtrée sur un indicateur par filtre, et par année (optionnel).
 Nom de l'indicateur, ODD associé, Unité de mesure. 
 Répartition des sujets cibles de l'action.
 
+
 # SCRIPTS
 Intégration: Chargement et pré traitement des données.
 Exploration: Script explicatif des données (usage projet). 
 Main: Construction du document final (Excel).
 
+# PLAN D'ACTION
+1-	Établir une table de correspondance à partir des métadonnées : 
+a.	Comment créer des Catégories d’index à partir d’un sommaire potentiellement évolutif ? 
+b.	Comment intégrer ces correspondances dans un modèle ? 
+Une table par colonne par attribut
+2-	Analyser les indicateurs en comparaison (un TDB comparatif avec évolution dans le temps i.e. TDB Bilan)
+3-	Analyse par indicateur en fonction de filtres dynamiques
+4-	Identifier un MODOP de MAJ adapté à différents cas d’évolutions de la donnée. 
 
