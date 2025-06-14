@@ -2,12 +2,12 @@
 Dans le cadre du master MéDAS: Création d'un tableau de bord automatisé sur le suivi des ODD en France. 
 
 # DATA 
-Dans ce fichier sont regroupés les différentes tables créées par le script integration. 
+Dans ce fichier sont regroupés les différentes tables créées par le script intégration. 
 Tables de correspondances des données à partir des metadata. 
-Tables de donnée exploitable à partir de data. 
+Tables de données exploitables à partir de DATA. 
 
 ## Description de la donnée: 
-Les données sont décrites en détails par les tables de correspondance extraite du fichier DS_DEVDUR_metata.csv. 
+Les données sont décrites en détails par les tables de correspondance extraites du fichier DS_DEVDUR_metata.csv. 
 
 L’Assemblée générale de l’Organisation des Nations unies (ONU) a adopté 17 objectifs de développement durable (ODD), déclinés en 169 cibles pour la période 2015-2030. Ces objectifs et cibles constituent une feuille de route commune de la transition.
 
@@ -16,12 +16,12 @@ La France a engagé un travail d’appropriation de ces objectifs pour définir 
 Ce jeu de données constitue le suivi de ces 98 indicateurs.
 
 Rapide introduction pour une compréhension générale: 
-Chaque ligne correspond a une politique publique menée pour un indicateur d'un objectif de développement durable (ODD). Le jeu de données concerne la France et l'Outre-Mer. Chaque action est décrite par 
+Chaque ligne correspond a une politique publique menée pour un indicateur d'un objectif de développement durable (ODD). Le jeu de données concerne la France et l'Outre-Mer. Chaque action est décrite par :
 - Objectif de développement durable,
     - Indicateur d'objectif du développement durable (cibles),
     - Composite du développement durable (sujet de la cible),
     - Type d'indicateur du développement durable (si ODD ou indicateur de richesse nationale),
-- statut de l'indicateur,
+- statut global de l'indicateur,
 - valeur d'observation,
 - unité de mesure correspondante à l'action,
 - statut d'activité des sujets,
@@ -33,13 +33,12 @@ Chaque ligne correspond a une politique publique menée pour un indicateur d'un 
   
 Chaque ODD ayant sa propre manière d'être mesuré, il est important de comprendre les spécificités de ce jeu de données pour bien interpréter les résultats présentés. 
 Chaque ODD sera donc analysé individuellement sur les observations recueillies. 
-Les comparaisons sur l'ensemble des ODD se feront sur le nombre d'action concernées et la répartition par rapport à d'autres attributs (statut, cible, personnes). 
+Les comparaisons sur l'ensemble des ODD se feront sur le nombre d'actions concernées et la répartition par rapport à d'autres attributs (statut, cible, personnes). 
 
 # OUTILS (liste incomplète)
 Onyxia
 Git
-Jupyter
-- openpyxl
+Jupyter - openpyxl
 Excel
 
 # OUTPUT
@@ -49,11 +48,10 @@ L'objectif est d'obtenir un tableau de bord Excel qui permette de:
 Comparer les quantités d'action, ou l'effort cumulé, sur chaque ODD et par type d'indicateur. 
 Identifier les sujets cibles principaux de développement durable. 
 Identifier les indicateurs les plus représentés (indifféremment de l'ODD concerné). 
-Identifier la répartition du public concerné (sex, âge).
 Identifier la répartition des actions par geolocalisation. 
 
 2- Page ODD: 
-Page filtrée sur un indicateur par filtre, et par année (optionnel). 
+Page filtrée sur un indicateur par filtre, et par année. 
 Nom de l'indicateur, ODD associé, Unité de mesure. 
 Répartition des sujets cibles de l'action.
 
@@ -61,14 +59,16 @@ Répartition des sujets cibles de l'action.
 # SCRIPTS
 Intégration: Chargement et pré traitement des données.
 Exploration: Script explicatif des données (usage projet). 
-Main: Construction du document final (Excel).
+TDB: Construction du document final (Excel).
 
 # PLAN D'ACTION
 1-	Établir une table de correspondance à partir des métadonnées : 
 a.	Comment créer des Catégories d’index à partir d’un sommaire potentiellement évolutif ? 
 b.	Comment intégrer ces correspondances dans un modèle ? 
-Une table par colonne par attribut
-2-	Analyser les indicateurs en comparaison (un TDB comparatif avec évolution dans le temps i.e. TDB Bilan)
-3-	Analyse par indicateur en fonction de filtres dynamiques
+
+2-	Analyser les données et définir l'exploitation des données
+
+3-	Analyse des indicateurs en fonction de filtres dynamiques
+
 4-	Identifier un MODOP de MAJ adapté à différents cas d’évolutions de la donnée. 
 
